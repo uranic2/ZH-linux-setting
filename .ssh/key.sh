@@ -1,0 +1,2 @@
+# добавляем запись о ключе
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCgl6lMob2eocdk6LzM2lb4q8KXXXW8Zu2MhWLtiaub3pO1f5Nn25fCyy7+ne/bWdec86ObJzAG8Qy4dKHSTkVgVs+PdjH+CPzW+8dRsY/C2ZC0nruvP03UtC4MO+Pe/O/mVe+XZglRhgxrT1NsOEtQN1BLQadSGXfX/kTf123KEPCVzVOhUiiA3vYCL5pO48jPX4dXuqO89hL8np0nnBMj1nsy3+LP/N0EMbPL+qPjk0pFFUiuZwD/t1+iLtFf9Sa39Oqp5ba0jcolgWxytMA6LE+UxJE5wsjgXLzTvd70qdHa0LUrBVkXMqR/gZ58PIN1T88gtZ/pt39M5Wo8eanh rsa-key-20260110" >>~/ssh/authorized_keys
